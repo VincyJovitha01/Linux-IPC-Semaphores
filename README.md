@@ -118,10 +118,10 @@ return 0;
 ```
 
 ## OUTPUT
-$ ./sem.o 
+# $ ./sem.o 
 ![image](https://github.com/VincyJovitha01/Linux-IPC-Semaphores/assets/147121113/9cf4b3b3-9f38-42c7-82eb-b3ff95bcb84c)
 
-$ ipcs
+# $ ipcs
 ![image](https://github.com/VincyJovitha01/Linux-IPC-Semaphores/assets/147121113/093caf36-bbce-4f11-88eb-6676deded5fa)
 
 ## RESULT:
